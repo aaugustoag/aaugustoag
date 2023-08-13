@@ -1,4 +1,4 @@
-Olá, me chamo Alexandre Augusto.
+Olá, me chamo Alexandre Augusto.<br>
 Sou Engenheiro de Computação e Mestre em Modelamento Matemático Computacional.
 👋
 
