@@ -19,12 +19,8 @@ Fique a vontade para replicar e colaborar, caso seja do seu interesse. Só não 
 
 ##
 
-### Stats do Portifólio:
-<div style="display: inline_block">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=aaugustoag&theme=midnight-purple&show_icons=true">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugustoag&layout=compact&theme=midnight-purple">
-</div>
-<br>
+### Portifólio:
+
 <div align="center"> 
   <img src="https://img.shields.io/badge/Ciência%20de%20Dados-red">
   <img src="https://img.shields.io/badge/Inteligência%20Artificial-orange">
@@ -32,3 +28,10 @@ Fique a vontade para replicar e colaborar, caso seja do seu interesse. Só não 
   <img src="https://img.shields.io/badge/Eplicabilidade%20em%20IA-grey">
   <img src="https://img.shields.io/badge/Outros-green">
 </div>
+<div style="display: inline_block">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=aaugustoag&theme=midnight-purple&show_icons=true">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaugustoag&layout=compact&theme=midnight-purple">
+</div>
+<div align="center"> 
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaugustoag&bg_color=0d1117&color=8A2BE2&line=006400&point=2F4F4F&area=true&hide_border=true">
+<br>
