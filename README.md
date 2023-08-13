@@ -3,7 +3,7 @@ Sou Engenheiro de Computação e Mestre em Modelamento Matemático Computacional
 No meu portifólio você poderá encontrar alguns códigos que utilizei no meu projeto final e durante meu aprendizado em Computação e Modelamento Computacional, códigos que ainda utilizo no dia a dia, quando preciso, e projetos que criei apenas para me divertir.<br>
 Fique a vontade para replicar e colaborar, caso seja do seu interesse. Só não esquece de referenciar, isso valoriza nosso trabalho e nos incentiva a criar mais.<br>
 <div>
-  
+  aff
 </div>
 
 <!--
