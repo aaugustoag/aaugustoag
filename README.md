@@ -1,6 +1,6 @@
-Olá, me chamo Alexandre Augusto.<br>
+Olá 👋, me chamo Alexandre Augusto.<br>
 Sou Engenheiro de Computação e Mestre em Modelamento Matemático Computacional.
-👋
+
 
 <!--
 **aaugustoag/aaugustoag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
