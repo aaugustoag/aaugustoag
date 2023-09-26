@@ -22,6 +22,7 @@ Fique a vontade para replicar e colaborar, caso seja do seu interesse. Só não 
 ### Portifólio:
 
 <div align="center"> 
+  <img src="https://img.shields.io/badge/Mineração%20de%20Dados-white">
   <img src="https://img.shields.io/badge/Ciência%20de%20Dados-red">
   <img src="https://img.shields.io/badge/Inteligência%20Artificial-orange">
   <img src="https://img.shields.io/badge/Aprendizado%20de%20Máquina-blue">
